@@ -176,8 +176,7 @@ Contributions are welcome. To contribute:
 
 ## License
 
-This project is intended for development and personal use unless otherwise specified by the repository owner.
+This project is intended for development and personal use unless specified by the repository owner.
 
 ---
 
-If you want, I can also turn this into a more premium GitHub README with a stronger product-style intro, badges, and a polished "How it works" section.
